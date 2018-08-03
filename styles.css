@@ -2722,3 +2722,12 @@ p.comment-form-comment {
 	background: white !important;
 	margin-bottom: 30px !important;
 }
+
+#site-description {
+	padding-bottom: 30px !important;
+}
+
+#branding hgroup {
+	margin: auto !important;
+	text-align: center !important;
+}
