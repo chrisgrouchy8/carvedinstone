@@ -2718,6 +2718,6 @@ p.comment-form-comment {
 	width: 100%;
 }
 
-.primary {
-	background: white;
+#primary {
+	background: white !important;
 }
